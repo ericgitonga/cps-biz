@@ -1,4 +1,6 @@
 temp/
 __pycache__/
 .spyproject/
+.ipynb_checkpoints/
+*.ipynb
 secrets.toml
